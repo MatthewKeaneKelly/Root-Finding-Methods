@@ -1,5 +1,4 @@
-// Matthew Keane Kelly, 116397441
-// I hereby declare that this submission is my own work. 
+
 #include <iostream>
 #include <string>
 #include <stdio.h>
